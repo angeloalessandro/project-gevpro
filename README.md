@@ -21,4 +21,5 @@ Project-gevpro
   - On-board services
   - Seat comfort
   - Cleanliness
-  <h2>How to run and how the results can be reproduced<h2>
+  <h2>How to use<h2>
+  The notebook can be run by running all cells in jupyter notebook, sequential, all the results will be visible in the output. In the markdown among the code, the results are discussed.
